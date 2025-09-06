@@ -38,8 +38,6 @@ pothole_segmentation_yolov11/
 ├── README.md                                  # This file
 └── screenshots/                               # Example output images
     ├── image.png
-    └── video.mp4
-                                    # This file
 
 ```
 ## 📈 Results and Performance
